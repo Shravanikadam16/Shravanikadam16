@@ -1,9 +1,29 @@
-## Hi there 👋
+## Hi I'm SHRAVANI 👋
 
-<!--
-**Shravanikadam16/Shravanikadam16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓  Computer Science Engineer
+📊 Aspiring Data Analyst
 
-Here are some ideas to get you started:
+🚀 Skills
+SQL
+Power BI
+Excel
+Data Visualization
+📊 Projects
+☕ Coffee Shop Sales Dashboard
+Built an end-to-end data analysis project using SQL and Power BI
+Analyzed sales trends, peak hours, and top-performing products
+Designed an interactive dashboard with business insights
+
+🔍 Key Insights
+Peak sales occur during 9–10 AM
+Coffee category generates highest revenue
+Hell’s Kitchen is the top-performing store
+Latte is among the best-selling products
+
+📫 Contact
+LinkedIn: https://www.linkedin.com/ (add your link here)
+
+⭐ Always learning and building data-driven solutions
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
